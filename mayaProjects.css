@@ -1,0 +1,5 @@
+.container{ display:inline; margin:5px; max-width: 150px; max-height: 150px; text-align: center;
+}
+.container img {
+width: 250px;
+height: 200px; }
